@@ -1,0 +1,2 @@
+packer-plugin-virtualbox source: file-without-copyright-information
+packer-plugin-virtualbox source: no-debian-changes

@@ -1,0 +1,6 @@
+packer-plugin-virtualbox: copyright-without-copyright-notice
+packer-plugin-virtualbox: initial-upload-closes-no-bugs
+packer-plugin-virtualbox: no-manual-page
+packer-plugin-virtualbox: shared-library-lacks-prerequisites
+packer-plugin-virtualbox: statically-linked-binary
+packer-plugin-virtualbox: zero-byte-file-in-doc-directory
